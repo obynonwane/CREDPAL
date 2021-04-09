@@ -29,7 +29,11 @@
 
 <h3>Post Man Collection</h3>
 <hr/>
-<p><a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t>https://documenter.getpostman.com/view/3188911/TzCV1j2t</a</p>
+<p>
+<a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t>https://documenter.getpostman.com/view/3188911/TzCV1j2t">
+    https://documenter.getpostman.com/view/3188911/TzCV1j2t
+</a>
+</p>
 
 <!-- <img src="https://github.com/obynonwane/eCommerce/tree/master/public/img/logo.png"> -->
 <!-- ![Image of Logo](https://github.com/obynonwane/eCommerce/tree/master/public/img/logo.png) -->
