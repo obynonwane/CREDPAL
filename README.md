@@ -27,7 +27,11 @@
 <li>Run <code>php artisan CurrencyThreshold:checkThreshold </code></li>
 </ul>
 
-<h3>Post Man Collection</h3>
+<h3>
+<a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t">
+    Post Man Collection
+</a>
+</h3>
 <hr/>
 <p>
 <a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t">
