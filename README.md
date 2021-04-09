@@ -30,7 +30,7 @@
 <h3>Post Man Collection</h3>
 <hr/>
 <p>
-<a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t>https://documenter.getpostman.com/view/3188911/TzCV1j2t">
+<a href="https://documenter.getpostman.com/view/3188911/TzCV1j2t">
     https://documenter.getpostman.com/view/3188911/TzCV1j2t
 </a>
 </p>
