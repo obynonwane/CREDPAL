@@ -22,6 +22,7 @@ Route::group(["middleware" => "jwt"], function () {
     Route::post("logout", "AuthController@logout");
     Route::post("addcurrency", "BaseCurrencyController@setBaseCurreency");
     Route::get("rates", "BaseCurrencyController@rates");
+    Route::get("alertuser", "BaseCurrencyController@checkThreshold");
     Route::post("threshold", "ThresholdController@setThreshold");
 });
 Route::post("register", "AuthController@register");
